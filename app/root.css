@@ -1,0 +1,18 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  .html {
+    @apply text-[16px];
+  }
+}
+
+@layer components {
+
+}
+
+
+@layer utilities {
+
+}
